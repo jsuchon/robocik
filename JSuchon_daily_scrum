@@ -6,3 +6,9 @@ Instalacja i konfiguracja Arduino IDE
 
 09.05.2018:
 Konfiguracja Github Desktop
+
+10.05.2018
+Przylutowanie goldpinów do modułu BT 
+PROBLEM: Moduł BT okazał się posiadać złącza niekompatybilne z standardowym rozmiarem rastera goldpin. 
+MOŻLIWE ROZWIĄZANIE: Odcięcie złączy od przewodów połączeniowych i wlutowanie ich osobno do każdego z pinów. Czasochłonne i mało pewne.
+Wymaga dokładnego przetestowania jakości połączeń!!
