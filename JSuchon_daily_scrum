@@ -12,3 +12,8 @@ Przylutowanie goldpinów do modułu BT
 PROBLEM: Moduł BT okazał się posiadać złącza niekompatybilne z standardowym rozmiarem rastera goldpin. 
 MOŻLIWE ROZWIĄZANIE: Odcięcie złączy od przewodów połączeniowych i wlutowanie ich osobno do każdego z pinów. Czasochłonne i mało pewne.
 Wymaga dokładnego przetestowania jakości połączeń!!
+
+11.05.2018
+Dokładne sprawdzenie połączeń i lutów w module BT. Udało się rozwiązać wczorajszy problem.
+Zapoznanie z możliwościami biblioteki standardowej Arduino.
+Zaprojektowanie układu elektronicznego robota.
