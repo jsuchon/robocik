@@ -17,3 +17,6 @@ Wymaga dokładnego przetestowania jakości połączeń!!
 Dokładne sprawdzenie połączeń i lutów w module BT. Udało się rozwiązać wczorajszy problem.
 Zapoznanie z możliwościami biblioteki standardowej Arduino.
 Zaprojektowanie układu elektronicznego robota.
+
+14.05.2018 
+Nauka podstaw sterowania silnikami DC za pomocą prostego mostka-H na przykładzie układu L293D i diod LED
