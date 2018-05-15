@@ -2,10 +2,10 @@
 Zapoznanie z serwisem Github.com
 
 08.05.2018:
-Instalacja i konfiguracja Arduino IDE
+Instalacja i konfiguracja Arduino IDE.
 
 09.05.2018:
-Konfiguracja Github Desktop
+Konfiguracja Github Desktop.
 
 10.05.2018
 Przylutowanie goldpinów do modułu BT 
@@ -19,4 +19,7 @@ Zapoznanie z możliwościami biblioteki standardowej Arduino.
 Zaprojektowanie układu elektronicznego robota.
 
 14.05.2018 
-Nauka podstaw sterowania silnikami DC za pomocą prostego mostka-H na przykładzie układu L293D i diod LED
+Nauka podstaw sterowania silnikami DC za pomocą prostego mostka-H na przykładzie układu L293D i diod LED.
+
+15.05.2018
+Zapoznanie z docelowym shildem. Test podłączenia, zasilania i współpracy z Arduino UNO za pomocą diody LED i buzzera.
