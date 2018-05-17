@@ -26,3 +26,7 @@ Zapoznanie z docelowym shildem. Test podłączenia, zasilania i współpracy z A
 
 16.05.2018
 Podłaczenie i podstawy obsługi modułu BT przez Arduino. 
+PROBLEM: Moduł BT nie tworzy sieci. Nie ma z nim żadnego kontaktu. Najprawdopodobniej został uszkodzony.
+
+17.05.2018
+Złożenie robota. Ustalenie tablicy prawd dla silników 
