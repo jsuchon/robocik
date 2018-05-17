@@ -1,0 +1,8 @@
+Lewy: 
+Kierunek jazdy: 
+	Przód 0
+	Ty³   1
+Prawy:
+Kierunek jazdy:
+	Przód 1
+	Ty³   0

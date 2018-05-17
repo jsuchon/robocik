@@ -19,7 +19,7 @@ void loop() {
   if( digitalRead(PRZYCISK) == LOW)
    {
       digitalWrite(LED, HIGH );
-      analogWrite(BUZZER, 50);
+      analogWrite(BUZZER, 255);
       delay(250);
    }
    else
