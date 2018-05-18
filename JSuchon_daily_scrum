@@ -29,4 +29,7 @@ Podłaczenie i podstawy obsługi modułu BT przez Arduino.
 PROBLEM: Moduł BT nie tworzy sieci. Nie ma z nim żadnego kontaktu. Najprawdopodobniej został uszkodzony.
 
 17.05.2018
-Złożenie robota. Ustalenie tablicy prawd dla silników 
+Złożenie robota. Ustalenie tablicy prawd dla silników.
+
+18.05.2018
+Zakupiono nowy moduł BT. Podłaczenie i podstawy obsługi modułu BT przez Arduino. 
