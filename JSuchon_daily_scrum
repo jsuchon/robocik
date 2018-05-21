@@ -33,3 +33,6 @@ Złożenie robota. Ustalenie tablicy prawd dla silników.
 
 18.05.2018
 Zakupiono nowy moduł BT. Podłaczenie i podstawy obsługi modułu BT przez Arduino. 
+
+21.05.2018
+Zaprojektowanie protokołu komunikacji i testy za pomocą 2 diod LED.
