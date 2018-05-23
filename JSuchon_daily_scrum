@@ -36,3 +36,9 @@ Zakupiono nowy moduł BT. Podłaczenie i podstawy obsługi modułu BT przez Ardu
 
 21.05.2018
 Zaprojektowanie protokołu komunikacji i testy za pomocą 2 diod LED.
+
+22.05.2018
+Przetestowanie protokołu komunikacyjnego w połączeniu PC - Arduino
+
+23.05.2018
+Przełożenie modelu sterowania diod LED na realne silniki. 
