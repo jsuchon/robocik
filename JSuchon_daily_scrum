@@ -42,3 +42,6 @@ Przetestowanie protokołu komunikacyjnego w połączeniu PC - Arduino
 
 23.05.2018
 Przełożenie modelu sterowania diod LED na realne silniki. 
+
+24.05.2018 
+Przetestowanie zachowania silników podczas realnego przemieszczania. Starowanie za pomocą terminala BT ( nowy protokół )
