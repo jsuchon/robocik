@@ -45,3 +45,6 @@ Przełożenie modelu sterowania diod LED na realne silniki.
 
 24.05.2018 
 Przetestowanie zachowania silników podczas realnego przemieszczania. Starowanie za pomocą terminala BT ( nowy protokół )
+
+25.04.2018 
+Usprawnienie i optymalizacja programu odpowiedzialnego za sterowanie silnikami za pomocą modułu BT
