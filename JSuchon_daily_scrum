@@ -48,3 +48,6 @@ Przetestowanie zachowania silników podczas realnego przemieszczania. Starowanie
 
 25.04.2018 
 Usprawnienie i optymalizacja programu odpowiedzialnego za sterowanie silnikami za pomocą modułu BT
+
+26.04.2018
+Debugging programu zajmującego się sterowaniem robota i komunikacją BT 
